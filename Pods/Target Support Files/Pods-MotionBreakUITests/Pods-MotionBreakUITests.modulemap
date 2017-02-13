@@ -1,0 +1,6 @@
+framework module Pods_MotionBreakUITests {
+  umbrella header "Pods-MotionBreakUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

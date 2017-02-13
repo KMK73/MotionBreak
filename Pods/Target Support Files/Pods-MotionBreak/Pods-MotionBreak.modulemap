@@ -1,0 +1,6 @@
+framework module Pods_MotionBreak {
+  umbrella header "Pods-MotionBreak-umbrella.h"
+
+  export *
+  module * { export * }
+}
